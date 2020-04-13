@@ -1,0 +1,9 @@
+[submodule "deps/boto3layer"]
+	path = deps/boto3layer
+	url = git@gitlab.cr.imson.co:cr.imson.co/lambda/boto3layer.git
+[submodule "deps/xraylayer"]
+	path = deps/xraylayer
+	url = git@gitlab.cr.imson.co:cr.imson.co/lambda/xraylayer.git
+[submodule "deps/crimsoncore"]
+	path = deps/crimsoncore
+	url = git@gitlab.cr.imson.co:cr.imson.co/lambda/crimsoncore.git
